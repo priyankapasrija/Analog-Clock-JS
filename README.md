@@ -11,5 +11,5 @@ Accurate representation of hours, minutes, and seconds.
 Smooth and continuous movement of clock hands.
 Customizable clock design.
 
-**Demo**
+**Demo:**
 You can see a live demo of the analog clock here: https://priyankapasrija.github.io/Analog-Clock-JS/
